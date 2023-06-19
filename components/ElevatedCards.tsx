@@ -39,7 +39,8 @@ export default function ElevatedCards() {
 const styles = StyleSheet.create({
     headingText : {
         fontSize : 25,
-        fontWeight : "bold"
+        fontWeight : "bold",
+        textAlign : "center"
     },
     container : {
         margin : 8
