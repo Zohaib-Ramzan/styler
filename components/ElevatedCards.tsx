@@ -40,7 +40,7 @@ const styles = StyleSheet.create({
     headingText : {
         fontSize : 25,
         fontWeight : "bold",
-        textAlign : "center"
+        // textAlign : "center"
     },
     container : {
         margin : 8
